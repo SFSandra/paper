@@ -26,3 +26,16 @@ In _Direct Democracy_ everyone votes on every issue.
 In _Representative Democracy_ we choose other people to represent us. 
 
 Liquid Democracy combines both to allow the voter to make decisions on the matters he/she cares about, and _delegate_ votes when there is someone that he/she trusts and considers to be more knowledgeable on the matter. A good way to think about it, is that we already live in Liquid Democracy, but its _frozen_: we can't change our vote for a certain period of time, only when there is a new election. Representative Democracy was the best that Nation-states could do with the technology of the time, but the internet and blockchain technologies allow us to do better now. 
+
+
+**How does open source voting work - won't it be easier to hack?** 
+
+
+**Isn't Open Source too new to be implementable in elections?** 
+
+Open-source systems are already playing a role in elections today.  For example, New Hampshire election officials employ open source to allow disabled voters to fill out ballots online or on their phones. In Travis County Texas, San Francisco and Los Angeles funds are being allocated to move toward open-source voting systems.  As well, many major companies and institutions use open-source software, among them the Department of Defense.
+
+**How do I receive VOTE tokens?**
+
+
+**What does a VOTE token have to do with Universal Basic Income?** 
